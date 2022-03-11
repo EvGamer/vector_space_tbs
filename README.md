@@ -1,2 +1,24 @@
-# Vector Space Turn Based Strategy Game
-Space tactics game, where turns are made simultainiously and ships obey newtonian mechanics
+# vector_space_tbs
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
